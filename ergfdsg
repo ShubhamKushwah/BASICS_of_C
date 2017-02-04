@@ -1,0 +1,44 @@
+[33mcommit 7bc2f2c24dbce476f86c7a46b94c6a0a5320fce3[m
+Author: Shubham <shubhamkushwahsk@gmail.com>
+Date:   Sat Feb 4 23:00:31 2017 +0530
+
+    Updated README.md file for better Description
+
+[33mcommit e3ba164904a527a2a560d97a327f81bfc4766e23[m
+Merge: 37fe561 740eed4
+Author: ShubhamKushwah <shubhamkushwahsk@gmail.com>
+Date:   Sat Feb 4 20:48:33 2017 +0530
+
+    Merge pull request #1 from ShubhamKushwah/HackerRank
+    
+    Operators-30DaysofCode_in_C
+
+[33mcommit 740eed47fee99bb36d90e3605ff8e942b31d75f3[m
+Author: ShubhamKushwah <shubhamkushwahsk@gmail.com>
+Date:   Sat Feb 4 20:48:17 2017 +0530
+
+    Update Operators-30DaysofCode_in_C
+
+[33mcommit 37fe56194b6caad521e74314f8db1a63671d6d5d[m
+Author: ShubhamKushwah <shubhamkushwahsk@gmail.com>
+Date:   Sat Feb 4 20:40:06 2017 +0530
+
+    Rename Operators-30DaysofCode to Operators-30DaysofCode_in_C++
+
+[33mcommit 9a33b7823ce998c07c2adc1bf8476feec38fded3[m
+Author: ShubhamKushwah <shubhamkushwahsk@gmail.com>
+Date:   Sat Feb 4 20:39:43 2017 +0530
+
+    Create Operators-30DaysofCode_in_C
+
+[33mcommit 3c86b6262a026fc5be8dd8888035a64177c0b690[m
+Author: ShubhamKushwah <shubhamkushwahsk@gmail.com>
+Date:   Sat Feb 4 18:39:13 2017 +0530
+
+    Create Operators-30DaysofCode
+
+[33mcommit e435329e007ce8797dad186b57b77b5567958dd2[m
+Author: ShubhamKushwah <shubhamkushwahsk@gmail.com>
+Date:   Mon Jan 2 16:19:13 2017 +0530
+
+    Initial commit
