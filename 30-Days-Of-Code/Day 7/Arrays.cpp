@@ -1,12 +1,12 @@
 #include <iostream>
-#include <vector>
+#include <vector>   /*Since we have used Vector*/
 
 using namespace std;
 
 int main(){
     int n;
     cin >> n;
-    vector <int> A(n);    //to assign the size of an array to a given input
+    vector <int> A(n);    /*to assign the size of an array to a given input*/
     
     //taking input
     for(int i=0; i < n; i++)
