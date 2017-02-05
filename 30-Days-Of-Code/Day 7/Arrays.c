@@ -9,7 +9,7 @@
 int main(){
     int n, i; 
     scanf("%d",&n);
-    int *arr = malloc(sizeof(int) * n);     //Allocates and assigns the pointer with the size we want, here the size is the sizeof 'int' multiplied by the input no.
+    int *arr = malloc(sizeof(int) * n);     /*Allocates and assigns the pointer with the size we want, here the size is the sizeof 'int' multiplied by the input no.*/
     
     //taking input
     for(i = 0 ; i< n ; i++){
