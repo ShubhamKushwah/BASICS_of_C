@@ -1,10 +1,10 @@
-#include <math.h>   //Not Required  
+#include <math.h>   /*Not Required*/
 #include <stdio.h>  
-#include <string.h> //Not Required
-#include <stdlib.h> //Not Required
-#include <assert.h> //Not Required
-#include <limits.h> //Not Required
-#include <stdbool.h>    //Not Required
+#include <string.h> /*Not Required*/
+#include <stdlib.h> /*Not Required*/
+#include <assert.h> /*Not Required*/
+#include <limits.h> /*Not Required*/
+#include <stdbool.h>    /*Not Required*/
 
 int main() {
     int n, i;
