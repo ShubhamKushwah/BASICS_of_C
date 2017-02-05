@@ -1,5 +1,5 @@
 #include <iostream>
-#include <math.h> //since we have used the round function.
+#include <math.h> /*since we have used the round function.*/
 
 using namespace std;
 
@@ -10,9 +10,9 @@ int main()
 
     cin>>cost>>tip>>tax;
 
-    total = cost + tip*cost/100 + tax*cost/100; //calculation
+    total = cost + tip*cost/100 + tax*cost/100; /*calculation*/
    
-    cout<<"The total meal cost is "<<round(total)<<" dollars."; //to round off the answer 
+    cout<<"The total meal cost is "<<round(total)<<" dollars."; /*to round off the answer.*/
 
 return 0;
 }
