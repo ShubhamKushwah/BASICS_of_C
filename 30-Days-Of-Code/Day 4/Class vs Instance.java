@@ -1,4 +1,4 @@
-import java.io.*;       //Not Required
+import java.io.*;       /*Not Required*/
 import java.util.*;
 
 public class Person{
